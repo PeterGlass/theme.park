@@ -19,7 +19,7 @@
     },
     "plex": {
       "overseerr-side-menu": "https://theme-peterglass.github.io\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=b14fcec4d4226f766e3f3931b073b4b45ea416ff",
-      "plex-alt-logo": "https://theme-peterglass.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=599f6d51ec1ef1c7ef701cddf5682d0904a03878"
+      "plex-alt-logo": "https://theme-peterglass.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=3366565f5682fc00a25f87eb2db9eecfcf193411"
     },
     "prowlarr": {
       "prowlarr-darker": "https://theme-peterglass.github.io\n/css/addons/prowlarr/prowlarr-darker/prowlarr-darker.css?sha=75c317fe4b826126d84b085638abf8ce6b1ff600"
@@ -331,7 +331,7 @@
     "plex": {
       "addons": {
         "overseerr-side-menu": "https://theme-peterglass.github.io\n/css/addons/plex/overseerr-side-menu/overseerr-side-menu.css?sha=b14fcec4d4226f766e3f3931b073b4b45ea416ff",
-        "plex-alt-logo": "https://theme-peterglass.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=599f6d51ec1ef1c7ef701cddf5682d0904a03878"
+        "plex-alt-logo": "https://theme-peterglass.github.io\n/css/addons/plex/plex-alt-logo/plex-alt-logo.css?sha=3366565f5682fc00a25f87eb2db9eecfcf193411"
       },
       "base_css": "https://theme-peterglass.github.io\n/css/base/plex/plex-base.css?sha=37e3d6c4e83bbb36170d8c847883479385c0a97a"
     },
