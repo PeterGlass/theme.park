@@ -7,6 +7,6 @@
     width: 145px;
 }
 
-[class*="NavBar-plexLogo-"] svg {
+[class*="NavBar-logoContainer-"] svg {
     display: none;
 }
