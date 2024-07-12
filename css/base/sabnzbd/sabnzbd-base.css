@@ -290,7 +290,7 @@ svg.peity polyline {
 
 .btn-default {
   color: var(--button-text) !important;
-  background: var(--button-color);
+  background: var(--button-color) !important;
   border-color: var(--button-color);
   outline: none !important;
 }
